@@ -2,7 +2,7 @@
 
 An experimental handwritten-digit classification project built with Keras. The notebook covers the complete workflow from dataset exploration and preprocessing to training, evaluation, and error analysis.
 
-> This project uses a fully connected neural network (MLP), not a convolutional neural network (CNN). Each `28 × 28` image is flattened into a 784-dimensional vector before being passed to the model.
+> This project uses a fully connected neural network (MLP). Each `28 × 28` image is flattened into a 784-dimensional vector before being passed to the model.
 
 ## Project Overview
 
