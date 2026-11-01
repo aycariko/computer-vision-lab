@@ -119,7 +119,3 @@ These analyses help identify which handwritten digits the model tends to confuse
 1. Open Google Colab.
 2. Upload `mnist_neural_network_lab.ipynb`.
 3. Select **Runtime → Run all**.
-
-## License
-
-This project is intended for educational and experimental use.
